@@ -1,8 +1,10 @@
 ### Hi there, welcome! 👏🏻
 
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/graysonnwu/graysonnwu/master/GW.svg" width="600" height="200">
-</p>	
+</p>
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/graysonnwu/graysonnwu/master/ES.svg" width="600" height="200">
